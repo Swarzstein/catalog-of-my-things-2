@@ -1,29 +1,21 @@
 [
   {
-    "id": 1680988943,
-    "name": "Sci-Fi",
+    "id": 1681015492,
+    "name": "Defa",
     "items": [
       {
-        "id": 81585,
+        "id": 32961,
         "class": "Book"
-      },
-      {
-        "id": 19522,
-        "class": "MusicAlbum"
-      },
-      {
-        "id": 26334,
-        "class": "MusicAlbum"
       }
     ]
   },
   {
-    "id": 1680988973,
-    "name": "Hip hop",
+    "id": 1681015575,
+    "name": "Fantasy",
     "items": [
       {
-        "id": 78509,
-        "class": "MusicAlbum"
+        "id": 85496,
+        "class": "Book"
       }
     ]
   }
